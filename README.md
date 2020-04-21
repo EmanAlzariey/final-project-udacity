@@ -11,12 +11,11 @@ The entire code is inherted at the end in a single contract `SolnSquareVerifier`
 - Contract Address: `0x60b9e5863ee55177ee1279404a07456be2605376`
 - Rinkeby link on infura  `https://rinkeby.infura.io/v3/e0ddeeed1c874be9bd11a1bf2abf7e05`
 - Token Link: https://rinkeby.etherscan.io/address/0x60b9e5863ee55177ee1279404a07456be2605376
-- OpenSea storefont assets - (sold houses):
-  1. https://rinkeby.opensea.io/assets/0x4dc95a3ca77e7eebb46c23c8f355b888cf92c5de/1
-  2. https://rinkeby.opensea.io/assets/0xc80ffc6573f0bbf8897ae138a1bbf6d45cc2c8f7/1
-  3. https://rinkeby.opensea.io/assets/0xcd8b52bed1f9402f291dad10366140a32926a30a/1
-  4. https://rinkeby.opensea.io/assets/0x818a3e2982c2bec0976ddf1521983930c428fd0b/1
-  5. https://rinkeby.opensea.io/assets/0x3a607789ccf87ad134673d97307deb0fe70681eb/1
+- OpenSea Marketplace Storefont Link- (house for sale collection):
+    https://rinkeby.opensea.io/assets?query=houses%20for%20sale
+- Two smart contracts were developed and deployed in rinkeby network:
+ [Verifier](https://rinkeby.etherscan.io/address/0x60B9e5863eE55177ee1279404a07456Be2605376) and 
+ [SolnSquareVerifier](https://rinkeby.etherscan.io/address/0x037a730537A8fEb10c9663677943b9581C23F0f4)
 
 
 - The following are ABI's of the contracts deployed
