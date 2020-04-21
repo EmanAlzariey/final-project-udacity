@@ -14,8 +14,8 @@ The entire code is inherted at the end in a single contract `SolnSquareVerifier`
 - OpenSea Marketplace Storefont Link- (house for sale collection):
     https://rinkeby.opensea.io/assets?query=houses%20for%20sale
 - Two smart contracts were developed and deployed in rinkeby network:
- [Verifier](https://rinkeby.etherscan.io/address/0x60B9e5863eE55177ee1279404a07456Be2605376) and 
- [SolnSquareVerifier](https://rinkeby.etherscan.io/address/0x037a730537A8fEb10c9663677943b9581C23F0f4)
+ Verifier: (https://rinkeby.etherscan.io/address/0x60B9e5863eE55177ee1279404a07456Be2605376) and 
+ SolnSquareVerifier: (https://rinkeby.etherscan.io/address/0x037a730537A8fEb10c9663677943b9581C23F0f4)
 
 
 - The following are ABI's of the contracts deployed
